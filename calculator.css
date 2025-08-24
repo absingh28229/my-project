@@ -1,0 +1,35 @@
+#calculator{
+    width: 200px;
+    margin: 160px auto;
+    border: 1px solid rgb(92, 74, 74);
+    border-radius: 10px;
+}
+
+#display{
+    margin: 10px;
+    width: 85%;
+    height: 30px;
+    font-size: 18px;
+}
+
+#buttons{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+     margin: 9px;
+}
+
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    font-size: 25px;
+}
+
+.button:hover{
+    background: #ebe2e2;
+}
+
+#work{
+    width: 80%;
+}
