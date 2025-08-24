@@ -19,10 +19,14 @@
     flex-wrap: wrap;
      margin: 9px;
 }
+h2{
+    text-align: center;
+    margin: 0px; padding: 0px;
+}
 
 .button{
     width: 100px;
-    height: 65px;
+    height: 60px;
     margin: 3px;
     font-size: 30px;
 }
