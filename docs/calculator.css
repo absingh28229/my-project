@@ -1,5 +1,6 @@
 #calculator{
     width: 400px;
+    height: 500px;
     margin: 160px auto;
     border: 1px solid rgb(92, 74, 74);
     border-radius: 10px;
@@ -21,9 +22,9 @@
 
 .button{
     width: 100px;
-    height: 50px;
+    height: 65px;
     margin: 3px;
-    font-size: 25px;
+    font-size: 30px;
 }
 
 .button:hover{
